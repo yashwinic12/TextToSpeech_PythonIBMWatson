@@ -6,7 +6,7 @@ This project demonstrates how to convert text into spoken audio using Python and
 
 Before getting started, ensure you have the following prerequisites:
 
-- Python 3.x installed on your machine
+- Jupyter Notebook installed on your machine
 - IBM Cloud account (sign up at [IBM Cloud](https://cloud.ibm.com/))
 - IBM Watson Text-to-Speech service credentials (obtain them from the IBM Cloud dashboard)
 
